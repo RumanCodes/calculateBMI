@@ -1,29 +1,17 @@
-<?php ob_start(); ?>
-<?php
-//include ("includes/database.php");
-?>
-<?php include ("functions.php"); ?>
 <!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>BMI Calculator </title>
-    <!-- Linking Css-->
-    <link rel="stylesheet" href="css/style.css"/>
-    <!-- favicon  -->
-    <link rel="icon" href="images/BMI.png"/>
-    <!-- Link Fontawesome -->
-<!--    <link rel="stylesheet" href="fontawesome/css/all.min.css"/>-->
-    <!--Bulma Css Frameworks  -->
-    <link rel="stylesheet" href="bootstrap-css/css/bootstrap.css"/>
-    <link rel="stylesheet" href="bootstrap-css/js/bootstrap.js"/>
-<!--    Google Fonts Conect -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Free BMI Calculator. Find your healthy weight range with our accurate Body Mass Index tool.">
+    <title>BMI Calculator: BMI Chart, Healthy Ranges, and Tips</title>
+    <!-- Ad network compatibility -->
+    <meta name="robots" content="index, follow">
+    <meta name="rating" content="general">
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>

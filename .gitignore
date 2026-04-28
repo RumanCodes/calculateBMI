@@ -1,0 +1,26 @@
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+php_errors.log
+
+# Build/Dependencies
+node_modules/
+vendor/
+
+# Project-specific
+assets/
+images/
+
+# Bootstrap (removed from project)
+bootstrap-css/

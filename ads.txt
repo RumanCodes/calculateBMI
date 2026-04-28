@@ -1,0 +1,4 @@
+# ads.txt file for ad network verification
+# Add your ad network entries below, for example:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Contact your ad network for the correct values to add here.
