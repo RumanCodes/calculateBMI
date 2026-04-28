@@ -19,7 +19,6 @@ node_modules/
 vendor/
 
 # Project-specific
-assets/
 images/
 
 # Bootstrap (removed from project)
